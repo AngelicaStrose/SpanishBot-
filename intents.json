@@ -1,0 +1,21 @@
+{"intents": [ 
+     {"tag": "greeting", 
+      "patterns": ["Hi", "Is anyone there?", "Hello", "I want to learn Spanish", "Hola! Quiero aprender español"],
+      "responses": ["Hello! I'm SpanishBot.", "Hello! I'm SpanishBot.", "Hello! I'm SpanishBot.", "Bueno! I will help you.", "Bueno! I will help you."],
+      "context_set": ""
+     },
+     {"tag": "goodbye", 
+      "patterns": ["Bye", "Goodbye", "See you later", "Thank you", "Gracias"], 
+      "responses": ["See you later! Hasta luego!", "See you later! Hasta luego!", "Hasta luego!", "De nada!", "De nada!"]
+     }, 
+     {"tag": "translation", 
+      "patterns": ["How do you say hi in Spanish?", "How do you say hi?", "How do you say bye in Spanish?", "How do you say bye?", "How do you say have a good day in Spanish?", "How do you say have a good day?", "How do you say have a good night in Spanish?", "How do you say have a good night?", "How do you say good night?", "How do you say see you later in Spanish?", "How do you say see you later?"], 
+      "responses": ["Hola", "Hola", "Adiós", "Adiós", "Tenga un buen día", "Tenga un buen día", "Buenas noches", "Buenas noches", "Hasta luego", "Hasta luego"]
+     }
+]
+}
+        
+
+
+
+
